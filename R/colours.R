@@ -15,7 +15,7 @@ NULL
 #'   schemes are derived from the most excellent Tumblr blog:
 #'   \href{http://beyoncepalettes.tumblr.com/}{Beyoncé Palettes}.
 #'   If omitted, uses all colours.
-#' @param number ID of desired palette (1 to 130)
+#' @param number ID of desired palette (1 to 131)
 #' @param type Either "continuous" or "discrete". Use continuous if you want
 #'   to automatically interpolate between colours.
 #' @return A vector of colours.
